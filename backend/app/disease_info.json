@@ -1,0 +1,268 @@
+{
+  "Apple___Apple_scab": {
+    "description": "Apple scab is a fungal disease caused by Venturia inaequalis. It appears as olive-green to brown spots on leaves and fruit, eventually turning dark and scabby.",
+    "severity": "Moderate",
+    "cause": "Fungus - Venturia inaequalis",
+    "treatment": "Apply fungicides such as captan or myclobutanil during early spring. Remove and destroy infected leaves and fruit.",
+    "prevention": "Plant resistant varieties, ensure good air circulation, and avoid overhead watering."
+  },
+  "Apple___Black_rot": {
+    "description": "Black rot is caused by the fungus Botryosphaeria obtusa. It causes circular brown lesions on leaves and rotting of fruit starting from the calyx end.",
+    "severity": "Severe",
+    "cause": "Fungus - Botryosphaeria obtusa",
+    "treatment": "Prune out dead or infected wood. Apply copper-based fungicides. Remove mummified fruit from the tree.",
+    "prevention": "Maintain tree health, remove dead wood promptly, and apply dormant sprays in early spring."
+  },
+  "Apple___Cedar_apple_rust": {
+    "description": "Cedar apple rust is caused by Gymnosporangium juniperi-virginianae. It produces bright orange-yellow spots on leaves and causes premature defoliation.",
+    "severity": "Moderate",
+    "cause": "Fungus - Gymnosporangium juniperi-virginianae",
+    "treatment": "Apply fungicides containing myclobutanil or triadimefon when leaves emerge. Remove nearby juniper trees if possible.",
+    "prevention": "Plant rust-resistant apple varieties and remove cedar or juniper trees near orchards."
+  },
+  "Apple___healthy": {
+    "description": "The apple leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Continue regular monitoring, proper fertilisation, and good orchard hygiene."
+  },
+  "Blueberry___healthy": {
+    "description": "The blueberry leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Maintain soil acidity between pH 4.5-5.5 and ensure adequate drainage."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "description": "Powdery mildew on cherry appears as white powdery coating on leaves, shoots, and fruit. It stunts growth and reduces fruit quality.",
+    "severity": "Moderate",
+    "cause": "Fungus - Podosphaera clandestina",
+    "treatment": "Apply sulphur-based fungicides or potassium bicarbonate. Remove heavily infected shoots.",
+    "prevention": "Ensure good air circulation, avoid excessive nitrogen fertilisation, and plant in sunny locations."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "description": "The cherry leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Monitor regularly and maintain good orchard sanitation."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "description": "Gray leaf spot is a fungal disease causing rectangular grey to tan lesions on corn leaves, running parallel to leaf veins. Severe infections cause significant yield loss.",
+    "severity": "Severe",
+    "cause": "Fungus - Cercospora zeae-maydis",
+    "treatment": "Apply foliar fungicides containing strobilurins or triazoles. Rotate crops to reduce inoculum.",
+    "prevention": "Use resistant hybrids, rotate with non-host crops, and reduce crop residue on the soil surface."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "description": "Common rust produces small, round to elongated cinnamon-brown pustules on both leaf surfaces. Severe infections turn leaves yellow and reduce photosynthesis.",
+    "severity": "Moderate",
+    "cause": "Fungus - Puccinia sorghi",
+    "treatment": "Apply fungicides containing triazoles or strobilurins at early rust detection.",
+    "prevention": "Plant resistant hybrids and monitor fields regularly during humid weather."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "description": "Northern leaf blight causes long, elliptical grey-green lesions on corn leaves. Lesions turn tan with dark borders as they mature, reducing yield significantly.",
+    "severity": "Severe",
+    "cause": "Fungus - Exserohilum turcicum",
+    "treatment": "Apply fungicides containing propiconazole or azoxystrobin. Remove infected plant debris.",
+    "prevention": "Use resistant hybrids, practice crop rotation, and till infected residue."
+  },
+  "Corn_(maize)___healthy": {
+    "description": "The corn leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Monitor regularly for early pest and disease detection."
+  },
+  "Grape___Black_rot": {
+    "description": "Grape black rot causes brown circular lesions with dark borders on leaves and shrivelled black mummified berries. It can destroy entire crops in wet seasons.",
+    "severity": "Severe",
+    "cause": "Fungus - Guignardia bidwellii",
+    "treatment": "Apply fungicides containing myclobutanil or captan from bud break through veraison.",
+    "prevention": "Remove mummified berries, prune for air circulation, and apply protective sprays early in the season."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "description": "Esca or Black Measles causes interveinal chlorosis and necrosis on leaves with a tiger-stripe pattern. It is a wood disease that progresses slowly but kills vines.",
+    "severity": "Severe",
+    "cause": "Fungal complex - Phaeomoniella chlamydospora and others",
+    "treatment": "No effective chemical treatment. Remove and destroy infected wood. Protect pruning wounds with fungicide paste.",
+    "prevention": "Avoid large pruning wounds, apply wound protectants, and remove infected vines promptly."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "description": "Leaf blight causes dark brown angular spots on grape leaves, leading to premature defoliation and reduced fruit quality.",
+    "severity": "Moderate",
+    "cause": "Fungus - Pseudocercospora vitis",
+    "treatment": "Apply copper-based fungicides or mancozeb. Improve canopy management to reduce humidity.",
+    "prevention": "Prune for good air circulation and avoid excessive irrigation."
+  },
+  "Grape___healthy": {
+    "description": "The grape leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Regular canopy management and monitoring for early disease detection."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "description": "Citrus greening or HLB is one of the most devastating citrus diseases. It causes yellowing of leaves in a blotchy pattern, small lopsided fruit, and eventual tree death.",
+    "severity": "Severe",
+    "cause": "Bacterium - Candidatus Liberibacter asiaticus, spread by Asian citrus psyllid",
+    "treatment": "No cure exists. Remove and destroy infected trees. Control psyllid populations with insecticides.",
+    "prevention": "Use certified disease-free planting material, control psyllid vectors, and quarantine new plant material."
+  },
+  "Peach___Bacterial_spot": {
+    "description": "Bacterial spot causes water-soaked lesions on leaves that turn brown and fall out, creating a shot-hole appearance. It also causes sunken spots on fruit.",
+    "severity": "Moderate",
+    "cause": "Bacterium - Xanthomonas arboricola pv. pruni",
+    "treatment": "Apply copper-based bactericides during the growing season. Avoid overhead irrigation.",
+    "prevention": "Plant resistant varieties, avoid wounding trees, and maintain proper nutrition."
+  },
+  "Peach___healthy": {
+    "description": "The peach leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Monitor regularly and maintain good orchard sanitation."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "description": "Bacterial spot on pepper causes water-soaked lesions on leaves and fruit that turn brown with yellow halos. Severe infections cause defoliation and fruit loss.",
+    "severity": "Moderate",
+    "cause": "Bacterium - Xanthomonas euvesicatoria",
+    "treatment": "Apply copper-based bactericides combined with mancozeb. Remove infected plant material.",
+    "prevention": "Use certified disease-free seed, practice crop rotation, and avoid overhead irrigation."
+  },
+  "Pepper,_bell___healthy": {
+    "description": "The pepper leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Monitor regularly and ensure proper spacing for air circulation."
+  },
+  "Potato___Early_blight": {
+    "description": "Early blight causes dark brown concentric ring lesions on lower leaves, resembling a target pattern. It reduces photosynthesis and can significantly reduce yield.",
+    "severity": "Moderate",
+    "cause": "Fungus - Alternaria solani",
+    "treatment": "Apply fungicides containing chlorothalonil or mancozeb. Remove infected lower leaves.",
+    "prevention": "Rotate crops, use certified seed potatoes, and avoid excessive nitrogen fertilisation."
+  },
+  "Potato___Late_blight": {
+    "description": "Late blight is one of the most destructive potato diseases. It causes water-soaked grey-green lesions that turn brown and spread rapidly, destroying entire fields.",
+    "severity": "Severe",
+    "cause": "Oomycete - Phytophthora infestans",
+    "treatment": "Apply fungicides containing metalaxyl or chlorothalonil immediately upon detection. Destroy infected plants.",
+    "prevention": "Use resistant varieties, apply preventive fungicides in humid conditions, and destroy volunteer plants."
+  },
+  "Potato___healthy": {
+    "description": "The potato leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Use certified disease-free seed potatoes and monitor regularly."
+  },
+  "Raspberry___healthy": {
+    "description": "The raspberry leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Ensure good drainage and monitor for cane diseases regularly."
+  },
+  "Soybean___healthy": {
+    "description": "The soybean leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Practice crop rotation and monitor for early signs of soybean diseases."
+  },
+  "Squash___Powdery_mildew": {
+    "description": "Powdery mildew on squash appears as white powdery patches on leaf surfaces. Severe infections cause leaves to yellow, wither, and die prematurely.",
+    "severity": "Moderate",
+    "cause": "Fungus - Podosphaera xanthii / Erysiphe cichoracearum",
+    "treatment": "Apply sulphur-based fungicides or potassium bicarbonate sprays. Remove heavily infected leaves.",
+    "prevention": "Ensure good air circulation, avoid overhead watering, and plant resistant varieties."
+  },
+  "Strawberry___Leaf_scorch": {
+    "description": "Leaf scorch causes small dark purple spots on the upper leaf surface that enlarge and turn reddish-brown with purple borders. Severe infections cause leaf death.",
+    "severity": "Moderate",
+    "cause": "Fungus - Diplocarpon earlianum",
+    "treatment": "Apply fungicides containing captan or myclobutanil. Remove and destroy infected leaves.",
+    "prevention": "Avoid overhead irrigation, ensure good plant spacing, and remove old infected foliage."
+  },
+  "Strawberry___healthy": {
+    "description": "The strawberry leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Monitor regularly and maintain good bed sanitation by removing old leaves."
+  },
+  "Tomato___Bacterial_spot": {
+    "description": "Bacterial spot causes small water-soaked lesions on tomato leaves and fruit that turn brown with yellow halos. It thrives in warm, wet conditions.",
+    "severity": "Moderate",
+    "cause": "Bacterium - Xanthomonas vesicatoria",
+    "treatment": "Apply copper-based bactericides combined with mancozeb. Remove infected plant debris.",
+    "prevention": "Use disease-free seed, practice crop rotation, and avoid working with plants when wet."
+  },
+  "Tomato___Early_blight": {
+    "description": "Early blight on tomato causes dark brown concentric ring lesions with a yellow halo on older leaves. It progresses upward through the plant causing defoliation.",
+    "severity": "Moderate",
+    "cause": "Fungus - Alternaria solani",
+    "treatment": "Apply fungicides containing chlorothalonil or mancozeb. Remove infected lower leaves.",
+    "prevention": "Use mulch to prevent soil splash, rotate crops, and stake plants for air circulation."
+  },
+  "Tomato___Late_blight": {
+    "description": "Late blight causes irregular water-soaked grey-green lesions that turn brown. White mould may appear on the underside of leaves in humid conditions. It spreads extremely rapidly.",
+    "severity": "Severe",
+    "cause": "Oomycete - Phytophthora infestans",
+    "treatment": "Apply fungicides containing metalaxyl or chlorothalonil immediately. Remove and destroy all infected plant material.",
+    "prevention": "Use resistant varieties, apply preventive sprays during humid weather, and avoid overhead irrigation."
+  },
+  "Tomato___Leaf_Mold": {
+    "description": "Leaf mould causes pale green to yellow spots on the upper leaf surface with olive-green to grey velvety mould on the underside. It thrives in high humidity greenhouses.",
+    "severity": "Moderate",
+    "cause": "Fungus - Passalora fulva",
+    "treatment": "Improve ventilation, reduce humidity, and apply fungicides containing chlorothalonil or mancozeb.",
+    "prevention": "Ensure good greenhouse ventilation, avoid overhead watering, and plant resistant varieties."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "description": "Septoria leaf spot causes numerous small circular spots with dark borders and light grey centres on lower leaves. It causes severe defoliation starting from the bottom of the plant.",
+    "severity": "Moderate",
+    "cause": "Fungus - Septoria lycopersici",
+    "treatment": "Apply fungicides containing chlorothalonil or copper. Remove infected lower leaves immediately.",
+    "prevention": "Rotate crops, use mulch, avoid overhead watering, and stake plants for better air circulation."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "description": "Two-spotted spider mites cause stippling on leaves - tiny yellow or white dots - and fine webbing on the undersides of leaves. Severe infestations turn leaves bronze and cause defoliation.",
+    "severity": "Moderate",
+    "cause": "Pest - Tetranychus urticae (mite, not fungus)",
+    "treatment": "Apply miticides or insecticidal soap. Introduce predatory mites as biological control.",
+    "prevention": "Avoid dusty conditions, maintain plant moisture, and monitor the undersides of leaves regularly."
+  },
+  "Tomato___Target_Spot": {
+    "description": "Target spot causes brown circular lesions with concentric rings and yellow halos on leaves, stems, and fruit. It can cause significant defoliation in warm humid conditions.",
+    "severity": "Moderate",
+    "cause": "Fungus - Corynespora cassiicola",
+    "treatment": "Apply fungicides containing azoxystrobin or chlorothalonil. Remove infected leaves.",
+    "prevention": "Improve air circulation, avoid overhead irrigation, and rotate crops."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "description": "TYLCV causes severe yellowing and upward curling of leaves, stunted growth, and flower drop. It is transmitted by whiteflies and can cause complete crop failure.",
+    "severity": "Severe",
+    "cause": "Virus - Tomato Yellow Leaf Curl Virus, transmitted by Bemisia tabaci whitefly",
+    "treatment": "No cure. Remove and destroy infected plants immediately. Control whitefly populations with insecticides.",
+    "prevention": "Use virus-resistant varieties, control whitefly populations, use reflective mulches, and use insect-proof screens in greenhouses."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "description": "Tomato mosaic virus causes light and dark green mosaic patterns on leaves, leaf distortion, and stunted growth. It reduces fruit quality and yield significantly.",
+    "severity": "Moderate",
+    "cause": "Virus - Tomato Mosaic Virus (ToMV), spread by contact and infected tools",
+    "treatment": "No cure. Remove and destroy infected plants. Disinfect tools with bleach solution between uses.",
+    "prevention": "Use virus-free certified seed, disinfect tools, wash hands before handling plants, and control aphid vectors."
+  },
+  "Tomato___healthy": {
+    "description": "The tomato leaf appears healthy with no signs of disease or pest damage.",
+    "severity": "None",
+    "cause": "N/A",
+    "treatment": "No treatment required.",
+    "prevention": "Monitor regularly, maintain proper spacing, and practice good garden hygiene."
+  }
+}

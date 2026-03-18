@@ -1,0 +1,6 @@
+SAVED_MODEL_PATH=model_files/saved_model
+CLASS_INDICES_PATH=model_files/class_indices.json
+IMG_SIZE=200
+NUM_CLASSES=38
+ALLOWED_ORIGINS=http://localhost:5173
+PORT=8000

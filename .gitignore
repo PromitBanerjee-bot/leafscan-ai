@@ -1,0 +1,43 @@
+# Python virtual environments
+training/training_venv/
+training/training_myenv/
+backend/venv/
+backend/backend_venv/
+backend/backend_myenv/
+
+# Model files — too large for GitHub
+backend/model_files/saved_model/
+backend/model_files/model_weights.weights.h5
+training/outputs/model_weights.weights.h5
+training/outputs/saved_model/
+
+# Dataset — too large for GitHub
+training/plantvillage dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Environment variable files — keep template, ignore actual
+*.env
+!*.env.example
+
+# Node modules
+frontend/node_modules/
+
+# Vite build output
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+npm-debug.log*
