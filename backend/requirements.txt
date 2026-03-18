@@ -1,4 +1,4 @@
-tensorflow==2.10.0
+tensorflow-cpu==2.15.0
 fastapi==0.111.0
 uvicorn==0.30.1
 python-multipart==0.0.9
@@ -6,4 +6,5 @@ python-dotenv==1.0.1
 numpy==1.23.5
 Pillow==10.0.0
 scikit-learn==1.3.2
-h5py
+opencv-python-headless==4.8.0.76
+huggingface_hub==0.20.3

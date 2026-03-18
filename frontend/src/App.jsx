@@ -8,7 +8,7 @@ import HowItWorks  from './components/HowItWorks.jsx'
 import DiseaseInfo from './components/DiseaseInfo.jsx'
 import GradCam from './components/GradCam.jsx'
 
-const API_URL = 'http://localhost:8000'
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000'
 
 export default function App() {
   const [result,       setResult]       = useState(null)
